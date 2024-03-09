@@ -1,6 +1,6 @@
 import math
 n = int(input())
-print('version3')
+print('updated version3')
 f=0
 for i in range(2,int(math.sqrt(n))):
 
